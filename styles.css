@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+}
+.clearfix {
+    clear: both;
+}
+
+.block-1 {
+    background-color: coral;
+    padding: 30px;
+    margin-bottom: 10px;
+    
+}
+.left {
+    width: 200px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.right {
+    width: 200px;
+    float: right;
+    margin-left: 20px;
+    text-align: center;
+}
+.block-2 {
+    background-color: coral;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+.landscape {
+    width: 300px;
+    height: 150px;
+    float: left;
+}
+
+.smalls {
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 10px;
+    background-color: cornflowerblue;
+    margin-top: 50px; 
+}
+
+.block-3 {
+    background-color: coral;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+.land-left {
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin-right: 20px;
+}
+
+.land-right {
+    width: 300px;
+    height: 150px;
+    float: right;
+    margin-left: 20px;
+}
+.block-4 {
+    background-color: coral;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+
+.dog {
+    display: inline-block;
+    margin-left: 500px;
+    width: 200px;
+    height: 300px;
+}
+
+.text {
+    background-color: rgb(230, 143, 179);
+    margin-top: 0px;
+}
+
+.fourth {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    padding-top: 45px;
+    margin-right: 20px;
+    margin-left: 15px;
+}
+
+.text-two {
+    background-color: rgb(230, 143, 179);
+    margin-top: 0px;
+    margin-top: 10px;
+}
+.block-5 {
+    background-color: coral;
+    padding: 50px;
+    margin-top: 10px;
+}
+.block-right {
+    float: right;
+}
+
+.b-right {
+    float: right;
+}
+
